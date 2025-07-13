@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=nisabzahid)
 
-<h1 align="center">Hi 👋, I'm Nisab Bin Zahid!**
+<h1 align="center">Hi 👋, I'm Nisab Bin Zahid </h1>
 
 - 👨‍💻 All of my projects are available at [https://nisabzahid.vercel.app](https://nisabzahid.vercel.app)
 
